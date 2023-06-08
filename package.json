@@ -1,0 +1,18 @@
+{
+  "name": "queen-elisa-qr(MULTI-AUTH-STATE)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "axios": "^0.24.0",
+    "cfonts": "^3.1.1",
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.2.10",
+    "pino": "^8.6.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
